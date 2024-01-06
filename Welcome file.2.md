@@ -2,6 +2,8 @@
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
+$$x^2$$
+
 
 # Files
 
@@ -143,5 +145,5 @@ C --> D
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczogLm1kXG4iLCJoaX
-N0b3J5IjpbMTc2MzcyNDk1NF19
+N0b3J5IjpbMTUwNTEwNjYzNCwxNzYzNzI0OTU0XX0=
 -->
